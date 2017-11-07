@@ -1,0 +1,9 @@
+
+*.lock
+*.ide
+*.ide-wal
+*.ide-shm
+.vs/BetraySoundboard/v15/.suo
+*.cache
+*.Cache
+*.cache
